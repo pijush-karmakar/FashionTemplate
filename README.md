@@ -1,5 +1,5 @@
 <h3>Fashion Template</h3>
-<p> View Demo : <a href=""></a></p>
+<p> Live Preview : <a href="https://pijush-karmakar.github.io/FashionTemplate/Ecommerce/">Fashion Template</a></p>
 
 <p>View Screenshots: </p>
 
