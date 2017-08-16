@@ -1,4 +1,4 @@
-<h3>Fashion Template</h3>
+<h2>Responsive Ecommerce Fashion Template </h2>
 <p> Live Preview : <a href="https://pijush-karmakar.github.io/FashionTemplate/Ecommerce/">Fashion Template</a></p>
 
 
